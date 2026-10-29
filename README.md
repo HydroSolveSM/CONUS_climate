@@ -1,6 +1,6 @@
 # CONUS Hydroclimate Workflow
 
-This folder is the GitHub-ready version of the `climate_100yr` project for the manuscript on baseline-dependent hydroclimatic dryness and wetness across the contiguous United States.
+This project is for the manuscript on Recent and Centennial Perspectives on Hydroclimatic Wetting and Drying Across the Contiguous United States.
 
 
 ## Folders
